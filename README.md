@@ -2,12 +2,12 @@
 
 **`Desenvolvedor Web | HTML, CSS, JavaScript | Soluções Digitais para Empresas e Setor Público`**
 
-Sou desenvolvedor web em formação, focado na criação de soluções digitais simples e eficientes para empresas e setor público.
+Sou desenvolvedor web em formação, focado na criação de soluções digitais simples e eficientes, para empresas e setor público.
 Desenvolvi projetos como:
 Painel de dados educacionais municipais
 Mural digital corporativo para comunicação interna
 Sistema de cardápio digital com QR Code e envio automático de pedidos para cozinha
-Trabalho com HTML, CSS, JavaScript e Firebase, buscando sempre evoluir tecnicamente e criar soluções que resolvam problemas reais.
+Trabalho com HTML, CSS, JavaScript e Firebase, Nodejs, buscando sempre evoluir tecnicamente e criar soluções que resolvam problemas reais.
 
 
 
